@@ -1,0 +1,14 @@
+.world{
+    background-color: purple;
+}
+.hide{
+    display: none;
+}
+
+.myDiv{
+    background-color: purple;
+}
+.randomClass{
+    font-size: 100px;
+    background-color: red;
+}
