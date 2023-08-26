@@ -1,0 +1,22 @@
+ .grandfather,
+        .father,
+        .mother{
+            min-width: 400px;
+            max-width: 600px;
+            margin: auto;
+            min-height: 100px;
+            padding: 40px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .grandfather{
+            background-color: chartreuse;
+        }
+        .father{
+            background-color: darkorange;
+        }
+        .mother{
+            background-color: darkslateblue;
+            color: white;
+        }
