@@ -31,7 +31,23 @@ taskList.addEventListener("click",function(ev){
         item.remove();
     }
     //
-   
+    if(className=="up"){
+        let currentListItem=currentElement.parentElement.parentElement;
+        let prevListItem=currentListItem.previousElementSibling;
+        console.log(prevListItem);
+        taskList.insertBefore(currentListItem,prevListItem);
+
+    }
+    if(className=="down"){
+        let currentListItem=currentElement.parentElement.parentElement;
+        let nextListItem=currentListItem.nextElementSibling;
+        taskList.insertBefore(nextListItem,currentListItem);
+    }
+    if(className=="complete"){
+        let listItem=currentElement.parentElement;
+        console.log(listItem);
+        listItem.classList.toggle("cut");
+    }
     
 });
 
