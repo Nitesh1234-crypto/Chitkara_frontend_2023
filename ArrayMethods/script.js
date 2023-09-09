@@ -40,3 +40,12 @@ let arrSum=arr3.reduce((accu,val,indx,arr)=>{
     return accu+val;
 })
 console.log(arrSum);
+/////sort//////
+let unsort=[1,23,11123,2245,32,334,4,145678]
+unsort.sort();
+//1, 4,23,32,334,2245,11123,145678
+console.log(unsort);
+unsort.sort(function(a,b){
+    return a-b
+});
+console.log(unsort);
