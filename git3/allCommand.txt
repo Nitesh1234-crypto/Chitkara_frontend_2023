@@ -1,0 +1,147 @@
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3
+$ ls
+file1.txt
+
+//to view hidden files
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3
+$ ls -a
+.  ..  file1.txt
+
+//Initialized a git repository
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3
+$ git init
+Initialized empty Git repository in C:/Users/pc/Desktop/chitkara_code/git3/.git/
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ ls
+file1.txt
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ ls -a
+.  ..  .git  file1.txt
+
+//delete file
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ rm -rf .git
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3
+$ ls -a
+.  ..  file1.txt
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3
+$ git init
+Initialized empty Git repository in C:/Users/pc/Desktop/chitkara_code/git3/.git/
+
+//to check the current status of all files
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+// adding file to stagging area
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git add file1.txt
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+
+// remove file from stagging area
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git rm --cached file1.txt
+rm 'file1.txt'
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git add file1.txt
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+
+
+//make version of your code
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git commit
+[master (root-commit) 4d0e31d] my first commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 file1.txt
+
+//to check history of all version/commit
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git log
+commit 4d0e31d7e7f7362186c5c3ba5afa1fdd9d5cb930 (HEAD -> master)
+Author: Nitesh1234-crypto <nitesh.e21@nsut.ac.in>
+Date:   Fri Sep 22 20:20:51 2023 +0530
+
+    my first commit
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git add file1.txt file2.txt
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   file1.txt
+        new file:   file2.txt
+
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git commit -m "changes in file1 and created new file2"
+[master 8e7601a] changes in file1 and created new file2
+ 2 files changed, 1 insertion(+)
+ create mode 100644 file2.txt
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git log
+commit 8e7601adae4ba2c5d7551901f8f3f8ff7f1714a7 (HEAD -> master)
+Author: Nitesh1234-crypto <nitesh.e21@nsut.ac.in>
+Date:   Fri Sep 22 20:39:25 2023 +0530
+
+    changes in file1 and created new file2
+
+commit 4d0e31d7e7f7362186c5c3ba5afa1fdd9d5cb930
+Author: Nitesh1234-crypto <nitesh.e21@nsut.ac.in>
+Date:   Fri Sep 22 20:20:51 2023 +0530
+
+    my first commit
+
+pc@DESKTOP-DDAPP7H MINGW64 ~/Desktop/chitkara_code/git3 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
