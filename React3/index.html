@@ -10,22 +10,17 @@
         <div class="container">
             <h1>hello world</h1>
             <h2>Hello React</h2>
+            <div>
+                <p>sdhfds
+                </p>
+                <h2>fjdsjfjsdf</h2>
+            </div>
         </div>
         
     </div>
-    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-    <script>
-        let heading=React.createElement("h1",{
-            id:"heading",
-            name:"Nitesh"
-        },"Hello world");
-        let heading2=React.createElement("h2",{
-            id:"heading2",
-        },"Hello React");
-        let container=React.createElement("div" ,null,[heading,heading2])
-        let root =ReactDOM.createRoot(document.querySelector("#root"));
-        root.render(container);
+   
+    <script type="module" src="./index.js">
+       
     </script>
 </body>
 </html>
