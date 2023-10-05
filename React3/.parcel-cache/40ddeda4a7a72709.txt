@@ -1,4 +1,4 @@
-5969
+5976
 114C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\filesystem.js133404613117046232 0
 108C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\opus.js133404613122976764 0
 126C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133404613185774453 0
@@ -21,6 +21,10 @@
 134C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\htmlnano\docs\versioned_sidebars\version-2.0.0-sidebars.json133404613102206068 0
 90C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\svgo\lib\svgo.js133404613101112504 0
 93C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\srcset\package.json133404613090177643 0
+115C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\lib\syntax\node\ClassSelector.js133404613105642685 0
+123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133404613096894759 0
+71C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\.gitignore133404668220687488 0
+100C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\nth-check\lib\esm\index.js133404613078305427 0
 82C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\mdn-data133404613076430860 1
 116C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133404613103611924 1
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\cjs\syntax\scope\selector.cjs133404613102830857 0
@@ -30,10 +34,13 @@
 92C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\domutils\readme.md133404613075806012 0
 105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\regions\SZ.js133404613125632477 0
 100C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\transformer-js\src133404613130787495 1
-65C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist133404647106134987 1
+65C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist133409566787652300 1
+87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\parent-module133404613083148016 1
+70C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\component133408201887547553 1
+105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\regions\SK.js133404613125007618 0
 147C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\mix.js133404613206238345 0
 118C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\utils\test\input\sourcemap\inline.js133404613180463208 0
-71C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\index.html133404640321539436 0
+71C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\index.html133408995597802904 0
 91C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\lib\usage.js133404613101893576 0
 122C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@babel\highlight\node_modules\chalk\package.json133404613189523579 0
 119C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133404613193585107 0
@@ -44,7 +51,7 @@
 124C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133404613096894759 0
 131C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Combinator.cjs133404613183587474 0
 90C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\semver\range.bnf133404613101268724 0
-69C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\index.js133404649985411713 0
+69C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\index.js133409566193243250 0
 127C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133404613119545636 0
 105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\svgo\plugins\applyTransforms.js133404613089240321 0
 100C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\nth-check\lib\esm\parse.js133404613079555129 0
@@ -80,8 +87,8 @@
 104C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\source-map-js\lib\array-set.js133404613073775237 0
 73C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules133404629183413349 1
 118C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react\cjs\react-jsx-runtime.profiling.min.js133404621523557420 0
-123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133404613105174056 0
 105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\source-map-js\lib\base64-vlq.js133404613073775237 0
+123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133404613105174056 0
 78C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\.bin133404621524494748 1
 80C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\dotenv133404613104861645 1
 120C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133404613192804038 0
@@ -212,6 +219,7 @@
 119C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\node_modules\mdn-data\css\selectors.json133404613190773269 0
 91C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\tslib\LICENSE.txt133404613091583539 0
 114C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\node_modules\msgpackr\node-index.js133404613197178005 0
+78C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\component\Main.js133409566139202861 0
 90C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\dotenv\README.md133404613104861645 0
 99C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\counter\package.json133404613099862810 0
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\cjs\restructure\prepare\index.cjs133404613092208381 0
@@ -466,8 +474,6 @@
 125C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@babel\code-frame\node_modules\color-name\README.md133404613209675052 0
 99C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lz4\lib133404613111734997 1
 80C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\parcel133404613175464481 1
-87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\parent-module133404613083148016 1
-105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\regions\SK.js133404613125007618 0
 84C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\parse-json133404613083148016 1
 143C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133404613183587474 0
 124C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react-dom\cjs\react-dom-server.node.development.js133404622017631386 0
@@ -926,9 +932,6 @@
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\type-fest\source\conditional-pick.d.ts133404613089396531 0
 113C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\node_modules\node-addon-api\napi.h133404613193897537 0
 103C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\type-fest\source\entries.d.ts133404613090021389 0
-97C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react-dom\test-utils.js133404622024033603 0
-146C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133404613538584798 0
-134C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133404613103611924 0
 88C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\source-map\lib133404613075181154 1
 97C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dist\index.cjs.map133404613111578778 0
 101C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\type-fest\source\entry.d.ts133404613090333819 0
@@ -1237,7 +1240,6 @@
 88C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\srcset\license133404613089552751 0
 114C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\es6-number.js133404613116577591 0
 107C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\svgo\plugins\removeXMLProcInst.js133404613098613102 0
-87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react-dom\umd133404622023877427 1
 131C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\types.ts133404613204207592 0
 124C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-svgo\node_modules\svgo\README.md133404613200458510 0
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\source-map\lib\source-map-generator.js133404613075181154 0
@@ -1598,6 +1600,10 @@
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\node_modules\msgpackr\unpack.d.ts133404613206550782 0
 119C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\dom-serializer\node_modules\entities\lib\maps133404613188898718 1
 92C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\process\browser.js133404629183257136 0
+97C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react-dom\test-utils.js133404622024033603 0
+146C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133404613538584798 0
+134C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133404613103611924 0
+87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react-dom\umd133404622023877427 1
 94C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\lib\data.js133404613107048604 0
 134C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react-dom\umd\react-dom-server-legacy.browser.development.js133404622015270113 0
 119C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\getrandomvalues.js133404613118139723 0
@@ -1667,9 +1673,6 @@
 154C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133404613538584798 0
 129C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133404613193428884 0
 123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react\cjs\react-jsx-dev-runtime.production.min.js133404621523401214 0
-99C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\dist\version.cjs133404613104549188 0
-97C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-image133404613247665297 1
-113C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_class_private_field_set133404613111891236 1
 93C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\color-name\index.js133404613083304284 0
 122C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\react\cjs\react-jsx-dev-runtime.profiling.min.js133404621523401214 0
 132C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133404613194053741 0
@@ -1950,9 +1953,6 @@
 104C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\nth-check\lib\esm\compile.d.ts133404613090333819 0
 124C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\node_modules\css-tree\cjs\tokenizer\names.cjs133404613185462048 0
 108C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\nth-check\lib\esm\compile.d.ts.map133404613082991810 0
-115C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\lib\syntax\node\ClassSelector.js133404613105642685 0
-123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133404613096894759 0
-100C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\nth-check\lib\esm\index.js133404613078305427 0
 104C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\nth-check\lib\esm\index.js.map133404613087521983 0
 101C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\cosmiconfig\dist\loaders.js133404613087209568 0
 86C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\core133404613194834806 1
@@ -2362,7 +2362,6 @@
 105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\package-manager\LICENSE133404613180931853 0
 123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133404613105955108 0
 123C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133404613105955108 0
-118C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133404613113609547 0
 119C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\csso\node_modules\css-tree\lib\lexer\index.js133404613190460845 0
 128C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133404613105486473 0
 129C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133404613112672261 0
@@ -3364,6 +3363,9 @@
 102C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\dist\csstree.esm.js133404613106267560 0
 120C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\cjs\_async_generator_delegate.cjs133404613091583539 0
 95C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\dist\data.js133404613107048604 0
+99C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\dist\version.cjs133404613104549188 0
+97C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-image133404613247665297 1
+113C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_class_private_field_set133404613111891236 1
 98C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\data\patch.json133404613114078185 0
 101C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\cjs\data-patch.cjs133404613092520803 0
 95C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\css-tree\cjs\data.cjs133404613092677004 0
@@ -4099,7 +4101,7 @@
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\auxclick.js133404613096426118 0
 107C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\av1.js133404613096582328 0
 124C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\caniuse-lite\data\features\background-clip-text.js133404613097363399 0
-87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist\index.3d214d75.js.map133404647106134987 0
+87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist\index.3d214d75.js.map133409566787632369 0
 145C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133404613206863203 0
 94C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\LICENSE133404613089552751 0
 152C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\StyleSheet.js133404613207019418 0
@@ -4578,8 +4580,8 @@
 119C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose133404613114390607 1
 93C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_jsx133404613114546827 1
 105C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_new_arrow_check133404613114703069 1
-109C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_non_iterable_spread133404613114703069 1
 117C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133404613113609547 0
+109C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_non_iterable_spread133404613114703069 1
 99C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\codeframe\LICENSE133404613102362217 0
 109C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_object_spread_props133404613114859247 1
 115C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@swc\helpers\_\_object_without_properties133404613115015479 1
@@ -4852,6 +4854,7 @@
 102C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\workers\lib\index.js133404613112672261 0
 97C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\core\lib\public133404613189211147 1
 101C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\workers\lib\threads133404613113609547 1
+118C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133404613113609547 0
 118C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\workers\lib\process\ProcessWorker.js133404613113297113 0
 112C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\watcher-win32-x64\package.json133404613098613102 0
 109C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\@parcel\watcher-win32-x64\README.md133404613098769308 0
@@ -5966,5 +5969,9 @@
 87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\.bin\svgo.cmd133404613538428544 0
 87C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\.bin\svgo.ps1133404613538428544 0
 101C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\node_modules\.bin\update-browserslist-db133404613538584798 0
-83C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist\index.3d214d75.js133404647106051333 0
-76C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist\index.html133404640334237073 0
+83C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist\index.3d214d75.js133409566787482751 0
+76C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\dist\index.html133409566787502693 0
+80C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\component\Footer.js133409566056858708 0
+80C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\component\Header.js133409566084376888 0
+78C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\component\Logo.js133409566112734092 0
+80C:\Users\pc\Desktop\New folder\Chitkara_frontend_2023\React3\component\Navbar.js133409566166922071 0
