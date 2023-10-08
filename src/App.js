@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Parent from './component/Parent';
+let random=Math.floor(Math.random()*10);
+let url="data:image/jpeg;base64,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"
+let data="Inside App"
+let data2="Data passed"
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>{random}</h1>
+      {/* {random==7 && <h1>WIN</h1>} */}
+      {random==7?<h1>WIN</h1>:<img src={url}></img>}
+     <h1>Hello world</h1>
+     <Parent val1={data} val2={data2} />
     </div>
   );
 }
