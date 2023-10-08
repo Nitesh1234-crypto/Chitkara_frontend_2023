@@ -11,7 +11,7 @@ function App() {
       <h1>{random}</h1>
       {/* {random==7 && <h1>WIN</h1>} */}
       {random==7?<h1>WIN</h1>:<img src={url}></img>}
-     <h1>Hello world</h1>
+     
      <Parent val1={data} val2={data2} />
     </div>
   );
