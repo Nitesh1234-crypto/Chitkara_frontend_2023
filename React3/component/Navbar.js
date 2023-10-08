@@ -6,4 +6,9 @@ let Navbar=()=>{
         </ul>
     )
 }
+export let LOGO=()=>{
+    return <h1>LOGO</h1>
+}
+
 export default Navbar
+

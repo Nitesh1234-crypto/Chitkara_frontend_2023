@@ -1,9 +1,9 @@
-import Logo from "./Logo"
+import { LOGO } from "./Navbar"
 import Navbar from "./Navbar"
 let Header=()=>{
     return(
         <div>
-        <Logo></Logo>
+        <LOGO></LOGO>
         <Navbar></Navbar>
         </div>
     )

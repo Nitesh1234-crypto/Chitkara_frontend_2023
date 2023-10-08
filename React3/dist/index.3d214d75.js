@@ -2983,23 +2983,23 @@ let PageLayout = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 46,
+                lineNumber: 41,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _mainDefault.default), {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 47,
+                lineNumber: 42,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 48,
+                lineNumber: 43,
                 columnNumber: 9
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "index.js",
-        lineNumber: 45,
+        lineNumber: 40,
         columnNumber: 9
     }, undefined);
 };
@@ -3008,7 +3008,7 @@ let root = (0, _clientDefault.default).createRoot(document.querySelector("#root"
 // root.render(<Funcom />);
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(PageLayout, {}, void 0, false, {
     fileName: "index.js",
-    lineNumber: 55,
+    lineNumber: 50,
     columnNumber: 13
 }, undefined));
 var _c;
@@ -27382,14 +27382,12 @@ try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _logo = require("./Logo");
-var _logoDefault = parcelHelpers.interopDefault(_logo);
 var _navbar = require("./Navbar");
 var _navbarDefault = parcelHelpers.interopDefault(_navbar);
 let Header = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _logoDefault.default), {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navbar.LOGO), {}, void 0, false, {
                 fileName: "component/Header.js",
                 lineNumber: 6,
                 columnNumber: 9
@@ -27416,36 +27414,7 @@ $RefreshReg$(_c, "Header");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","./Logo":"b97b1","./Navbar":"cTIt3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b97b1":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$7580 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$7580.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-let Logo = ()=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-        children: "LOGO"
-    }, void 0, false, {
-        fileName: "component/Logo.js",
-        lineNumber: 2,
-        columnNumber: 12
-    }, undefined);
-};
-_c = Logo;
-exports.default = Logo;
-var _c;
-$RefreshReg$(_c, "Logo");
-
-  $parcel$ReactRefreshHelpers$7580.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cTIt3":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","./Navbar":"cTIt3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cTIt3":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ea24 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -27454,6 +27423,7 @@ $parcel$ReactRefreshHelpers$ea24.prelude(module);
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "LOGO", ()=>LOGO);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 let Navbar = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27480,9 +27450,20 @@ let Navbar = ()=>{
     }, undefined);
 };
 _c = Navbar;
+let LOGO = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+        children: "LOGO"
+    }, void 0, false, {
+        fileName: "component/Navbar.js",
+        lineNumber: 10,
+        columnNumber: 12
+    }, undefined);
+};
+_c1 = LOGO;
 exports.default = Navbar;
-var _c;
+var _c, _c1;
 $RefreshReg$(_c, "Navbar");
+$RefreshReg$(_c1, "LOGO");
 
   $parcel$ReactRefreshHelpers$ea24.postlude(module);
 } finally {

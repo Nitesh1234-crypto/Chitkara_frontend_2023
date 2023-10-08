@@ -35,11 +35,6 @@ import Footer from "./component/Footer";
 //          </div>
 // )
 // };
-
-
-
-
-
 let PageLayout=()=>{
     return(
         <div>
