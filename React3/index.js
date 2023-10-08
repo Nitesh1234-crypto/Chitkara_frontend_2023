@@ -8,9 +8,9 @@ import Footer from "./component/Footer";
 
 
 //jsx --->html like structure
-// let newHeading=
-// (<h1 id="heading" className="heading">Hello world</h1>
-// )
+let newHeading=
+(<h1 id="heading" className="heading">Hello world</h1>
+)
 
 
 // //component --funcional component
